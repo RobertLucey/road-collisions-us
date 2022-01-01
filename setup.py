@@ -9,7 +9,7 @@ INSTALL_REQUIRES = (
 )
 
 setup(
-    name='road_collisions_ux',
+    name='road_collisions_us',
     version='0.0.1',
     python_requires='>=3.6',
     description='Road collision data for the United States',
